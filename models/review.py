@@ -4,7 +4,7 @@ File: review.py
 
 Author:
     Adeniji Aliu Adeyemi <adenijialiuadeyemi@gmail.com>
-    
+
 Defines a class Review
 """
 from models.base_model import BaseModel
